@@ -1,0 +1,87 @@
+# ===============================
+# General
+# ===============================
+*.log
+*.jou
+*.str
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+
+# ===============================
+# Vivado Generated Files
+# ===============================
+.cache/
+.hw/
+.ip_user_files/
+.runs/
+.gen/
+.sim/
+.xil/
+*.backup
+
+# Vivado project metadata
+*.cache
+*.hw
+*.runs
+
+# ===============================
+# Vivado Simulation
+# ===============================
+sim/
+*.wdb
+*.wcfg
+*.vcd
+
+# ===============================
+# Vitis / SDK
+# ===============================
+.sdk/
+.vitis/
+Debug/
+Release/
+*.elf
+
+# ===============================
+# Petalinux
+# ===============================
+build/
+images/
+tmp/
+.petalinux/
+.petalinux-build/
+petalinux_build/
+
+# ===============================
+# Boot Images
+# ===============================
+BOOT.BIN
+image.ub
+
+# ===============================
+# Linux Build Artifacts
+# ===============================
+*.ko
+*.o
+*.mod
+*.cmd
+*.d
+
+# ===============================
+# Python (if used for scripts)
+# ===============================
+__pycache__/
+*.pyc
+
+# ===============================
+# VS Code
+# ===============================
+.vscode/
+
+# ===============================
+# OS Files
+# ===============================
+desktop.ini

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="counter_sw" location="/home/grads/n/nithingowtham25/Spring_2026/ECEN749/lab_2/counter_sw" platform="/home/grads/n/nithingowtham25/Spring_2026/ECEN749/lab_2/led_sw_wrapper/export/led_sw_wrapper/led_sw_wrapper.xpfm" platformUID="xilinx:::0.0(custom)" systemProject="counter_sw_system" sysConfig="led_sw_wrapper" runtime="cpp" cpu="standalone_microblaze_0" cpuInstance="microblaze_0" os="standalone" mssSignature="0f8dec70b7242334923765169d791498">
+  <configuration name="Debug" id="xilinx.gnu.mb.exe.debug.1130548491">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.mb.exe.release.1694946146" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="empty_application"/>
+</sdkproject:SdkProject>

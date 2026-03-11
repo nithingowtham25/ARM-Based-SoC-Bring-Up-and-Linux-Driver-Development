@@ -1,0 +1,59 @@
+# =============================
+# Vivado Generated Files
+# =============================
+
+*.log
+*.jou
+*.str
+*.pb
+*.wdb
+*.vcd
+
+.cache/
+.hw/
+.ip_user_files/
+.runs/
+.gen/
+.sim/
+.xil/
+
+# Vivado temporary files
+vivado*.backup
+vivado*.jou
+vivado*.log
+
+# =============================
+# Vitis / SDK
+# =============================
+
+.metadata/
+RemoteSystemsTempFiles/
+Debug/
+Release/
+*.elf
+
+# workspace artifacts
+*.launch
+*.sdk
+
+# =============================
+# Build Outputs
+# =============================
+
+*.bit
+*.bin
+*.ltx
+
+# =============================
+# OS Files
+# =============================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =============================
+# VSCode
+# =============================
+
+.vscode/

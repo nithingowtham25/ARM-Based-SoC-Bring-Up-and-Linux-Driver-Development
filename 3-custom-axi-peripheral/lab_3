@@ -1,0 +1,12 @@
+
+reg [0 : C_S_AXI_DATA_WIDTH-1] tmp_reg ;
+always @( posedge S_AXI_ACLK ) begin
+    if ( S_AXI_ARESETN == 1’b0 ) begin
+        slv_reg2 <=0;
+        tmp_reg <=0;
+    end
+    else begin
+        tmp_reg <= slv_reg0 * slv_reg1 ;
+        slv_reg2 <= tmp_reg ;
+    end
+end

@@ -1,0 +1,7 @@
+the_ROM_image:
+{
+	[bootloader] /tmp/petalinux_nithingowtham25/linux_boot_nithingowtham25/images/linux/zynq_fsbl.elf
+	/tmp/petalinux_nithingowtham25/linux_boot_nithingowtham25/images/linux/system.bit
+	/tmp/petalinux_nithingowtham25/linux_boot_nithingowtham25/images/linux/u-boot.elf
+	[load=0x00100000] /tmp/petalinux_nithingowtham25/linux_boot_nithingowtham25/images/linux/system.dtb
+}

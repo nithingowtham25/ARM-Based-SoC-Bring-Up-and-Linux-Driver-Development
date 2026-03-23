@@ -1,0 +1,56 @@
+# -----------------------------
+# Vivado generated directories
+# -----------------------------
+*.cache/
+*.gen/
+*.hw/
+*.runs/
+*.sim/
+*.ip_user_files/
+*.jou
+*.log
+*.str
+*.pb
+
+# Vivado temporary files
+.Xil/
+*.backup
+*.wdb
+*.wcfg
+
+# -----------------------------
+# SDK / Vitis / Workspace files
+# -----------------------------
+.metadata/
+RemoteSystemsTempFiles/
+Debug/
+Release/
+
+# -----------------------------
+# Linux build artifacts
+# -----------------------------
+*.o
+*.d
+*.ko
+*.mod
+*.cmd
+*.tmp
+
+# -----------------------------
+# OS files
+# -----------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# -----------------------------
+# IDE files
+# -----------------------------
+.vscode/
+*.code-workspace
+
+# -----------------------------
+# Temporary results
+# -----------------------------
+*.tmp
+*.bak

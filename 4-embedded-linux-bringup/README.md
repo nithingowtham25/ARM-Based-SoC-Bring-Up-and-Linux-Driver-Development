@@ -106,7 +106,7 @@ This file represents the exported hardware platform used for embedded software d
 ---
 
 ### Results Directory
-- _Results/
+- docs/results/
 
 This directory stores captured outputs, screenshots, and verification artifacts produced during system validation.
 

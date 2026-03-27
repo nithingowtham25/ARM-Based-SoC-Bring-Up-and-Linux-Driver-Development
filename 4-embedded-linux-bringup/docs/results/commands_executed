@@ -1,0 +1,2 @@
+/tmp/petalinux_nithingowtham25/linux_boot_nithingowtham25$ petalinux-config --get-hw-description=/home/grads/n/nithingowtham25/Spring2026/ECEN749/lab4_new_linux_boot_wrapper.xsa --silentconfig
+

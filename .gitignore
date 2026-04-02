@@ -58,7 +58,7 @@ petalinux_build/
 # ===============================
 # Linux Build Artifacts
 # ===============================
-*.ko
+# *.ko
 *.o
 *.mod
 *.cmd

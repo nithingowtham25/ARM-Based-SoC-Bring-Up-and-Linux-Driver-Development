@@ -91,7 +91,7 @@ multiplier/
 | Function    | Description                          |
 | ----------- | ------------------------------------ |
 | `open()`    | Logs device access                   |
-| `release()` | Logs device closure                  |
+| `close()`   | Logs device closure                  |
 | `read()`    | Transfers data from hardware to user |
 | `write()`   | Transfers data from user to hardware |
 
